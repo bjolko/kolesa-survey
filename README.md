@@ -16,7 +16,5 @@ On average
 * Women are less skilled in programming languages
 * Both sex have about the same responsibilities
 
-Useful links are [here](#bonus)
-
 <font color='red'>**Disclaimer**</font> Conclusions are made only on this survey data and they are not a source of truth.
 
